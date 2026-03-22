@@ -6,7 +6,7 @@ File Name     :013_create_class_advisor.sql
 Developer     :Shivanshu Dhakrey
 Contact       :dhareyshivanshu59@gmail.com
 Version       :1.0.0
-Date          :2026-03-20
+Date          :2026-03-22
 Description   :creates the `class_advisor` table for faculty section allotment.
                This is the twelth table in the migration order
 =================================================
